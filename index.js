@@ -410,7 +410,7 @@ requirejs(['enc'],
   }
 
   processChunk()
-  // registration("babi1113")
+  // registration()
   // recharge()
   function handleResp (err, res, body) {
     if (!err && res.statusCode == 200) {
