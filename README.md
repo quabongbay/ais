@@ -12,6 +12,6 @@ Nó đơ rồi nâng cấp, nó chỉ cho tạo 3 accounts trên 1 IP.
 Tôi dùng tiếp đến api nạp tiền, giờ nó chặn hầu hết IP nước ngoài cho tất cả endpoint.
 
 Nhưng 1 thời gian quay lại thì nó không chặn nữa nên tôi suy luận:
-Nhân viên bảo trì hệ thống này không dùng version control, có thể quá trình deploy đã revert lại version cũ, điều này cũng dễ hiểu: hầu hết các nhóm lừa đảo làm việc khá cục bộ, phòng này không biết phòng kia làm gì, và nhân viên ăn lương tối thiểu luân chuyển khá thường xuyên, nên việc hệ thống vận hành sẽ không trơ tru
+Nhân viên bảo trì hệ thống này không dùng version control, có thể quá trình deploy đã revert lại version cũ, điều này cũng dễ hiểu: hầu hết các nhóm lừa đảo làm việc khá cục bộ, phòng này không biết phòng kia làm gì, và nhân viên ăn lương tối thiểu luân chuyển khá thường xuyên, nên việc hệ thống vận hành sẽ không trơn tru.
 
 
