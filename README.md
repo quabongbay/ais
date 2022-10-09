@@ -7,8 +7,7 @@ Và khi bạn đã quyết định hack thì ưu tiên bảo vệ mình là đi�
 
 ### Quá Trình:
 Client dùng mã hoá payload nhưng key thì để trong JS nên tôi copy ra dễ dàng rồi tạo vài trăm ngàn account, máy chủ đơ.
-Nó chặn IP VPN cuả tôi, tôi chuyển qua dùng tor để luân chuyển IP. 
-Nó đơ rồi nâng cấp, nó chỉ cho tạo 3 accounts trên 1 IP. 
+Nó chặn IP VPN cuả tôi, tôi chuyển qua dùng tor để luân chuyển IP. Nó đơ rồi nâng cấp, nó chỉ cho tạo 3 accounts trên 1 IP. 
 Tôi dùng tiếp đến api nạp tiền, giờ nó chặn hầu hết IP nước ngoài cho tất cả endpoint.
 
 Nhưng 1 thời gian quay lại thì nó không chặn nữa nên tôi suy luận:
